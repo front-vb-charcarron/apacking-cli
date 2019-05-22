@@ -10,4 +10,4 @@
 
 
 #update
-1. 添加postcss的autoprefix、添加了进度条等插件# apacking-cli
+1. 添加postcss的autoprefix、添加了进度条等插件
